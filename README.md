@@ -38,4 +38,8 @@ _Construindo o futuro, um código de cada vez._
 <a href="https://api.whatsapp.com/send/?phone=5555999571707&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)9876--54321-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
 <a href="mailto: codecomnick@gmail.com"><img src="https://img.shields.io/badge/Email-SEU EMAIL@GMAIL.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp;
 <a href="https://www.linkedin.com/in/SEU PERFIL/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/SEU PERFIL-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
+<<<<<<< HEAD
 <a href="https://nickportifolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/SITE-MEU PORTFÓLIO-black?style=for-the-badge"></a> &nbsp;
+=======
+<a href="https://nickportifolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/SITE-SEU PORTFÓLIO-black?style=for-the-badge"></a> &nbsp;
+>>>>>>> b5c810f8d04b7a6acc397b512227c246b11c197a

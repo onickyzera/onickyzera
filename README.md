@@ -16,8 +16,8 @@
 
 ## 🚀 Projetos Recentes
 
-- [JP Artesanatos](https://github.com/onickyzera/jpartesanatos): Site de uma loja de artigos religiosos com um catálogo interativo
-- [Agenda de Contatos](https://github.com/onickyzera/agenda-contatos): Aplicação de gerenciamento de contatos desenvolvida como parte dos estudos
+- [Pizzaria Online]([https://github.com/onickyzera/jpartesanatos](https://github.com/onickyzera/pizza_online)): Site de uma loja de artigos religiosos com um catálogo interativo
+- [Agenda de Contatos]([https://github.com/onickyzera/agenda-contatos](https://github.com/onickyzera/agenda_contatos)): Aplicação de gerenciamento de contatos desenvolvida como parte dos estudos
 - [Portfólio]([https://github.com/onickyzera](https://nickportifolio.vercel.app/)): Mostra de projetos web e outras criações
 
 ## 📫 Entre em Contato

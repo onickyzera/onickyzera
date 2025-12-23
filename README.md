@@ -1,32 +1,74 @@
-# 👋 Olá, sou Nícolas (Nick)
+# 👋 Olá, eu sou o Nick (Nícolas Vargas)
 
-## 💻 Sobre mim
+📊 **Em transição estratégica para Análise de Dados**  
+📊 Foco em dados, automação e tomada de decisão
+📍 São Gabriel, RS — Brasil  
 
-- 🧑‍🎓 **Engenheiro de Front-End** em formação pela EBAC.
-- 📚 **Apaixonado por tecnologia e design**, sempre explorando novas ideias criativas.
-- 🎨 **Dono da JP Artesanatos**, uma loja de artigos religiosos que busca trazer significado e espiritualidade para seus clientes.
-- 🌍 Atualmente trabalhando em diversos **projetos de desenvolvimento web** e criação de **landing pages**.
+Sou um profissional em transição para **Análise de Dados**, com **10 anos de experiência gerenciando meu próprio negócio**, atuando diretamente em **vendas, marketing, finanças, atendimento e processos**.
 
-## 🔧 Competências
+Essa vivência me ensinou algo essencial para a área de dados:  
+👉 **dados só têm valor quando viram decisão**.
 
-- HTML, CSS, JavaScript
-- Jquery, Bootstrap
-- Git, GitHub
-- Design de interfaces
-
-## 🚀 Projetos Recentes
-
-- [Pizzaria Online](https://github.com/onickyzera/pizza_online): Site de uma loja de artigos religiosos com um catálogo interativo
-- [Agenda de Contatos](https://github.com/onickyzera/agenda_contatos): Aplicação de gerenciamento de contatos desenvolvida como parte dos estudos
-- [Portfólio]([https://github.com/onickyzera](https://nickportifolio.vercel.app/)): Mostra de projetos web e outras criações
-
-## 📫 Entre em Contato
-
-- LinkedIn: [Nícolas Vargas](https://www.linkedin.com/in/n%C3%ADcolas-vargas-013688310/)
-- Instagram: [@codecomnick](https://www.instagram.com/codecomnick)
-- Portifólio: https://nickportifolio.vercel.app/
+Hoje, meu foco é unir **raciocínio analítico, lógica e contexto de negócio** para gerar insights que realmente façam diferença.
 
 ---
 
-_"Construindo o futuro, um código de cada vez."_
+## 🧠 Atualmente estudando
 
+📌 **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
+📌 **Power BI** — dashboards, KPIs e análise visual  
+📌 **Python para dados** — lógica, análise e automação  
+📌 **SQL** — consultas, joins e análise exploratória  
+📌 **Automação de processos** com IA, Python e n8n  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Análise de Dados**
+- Power BI (modelagem, DAX básico, dashboards)
+- Python (fundamentos, análise de dados)
+- SQL (SELECT, WHERE, JOIN, GROUP BY)
+- Excel / Google Sheets (análise e organização)
+
+**Outros conhecimentos**
+- Git & GitHub  
+- Noções de Front-End (HTML, CSS, JavaScript)  
+- Automação de processos  
+- Marketing e visão estratégica de negócio  
+
+---
+
+## 📈 O que você vai encontrar aqui
+
+🔹 Projetos práticos de **Análise de Dados**  
+🔹 Dashboards focados em **indicadores reais de negócio**  
+🔹 Estudos aplicados (nada genérico de curso)  
+🔹 Evolução documentada da minha transição de carreira  
+
+---
+
+## 💡 Diferencial
+
+✔ 10 anos lidando com números, metas e tomada de decisão  
+✔ Capacidade de traduzir dados em ações claras  
+✔ Comunicação simples, direta e orientada a negócio  
+✔ Perfil analítico com visão prática  
+
+---
+
+## 🌎 Onde me encontrar
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/nícolas-vargas-rs  
+
+📧 **Email:**  
+codecomnick@gmail.com  
+
+💼 **GitHub:**  
+https://github.com/onickyzera  
+
+---
+
+⭐ Se você é recrutador ou líder técnico:
+aqui você vai encontrar **aprendizado real, projetos práticos e visão de negócio**.

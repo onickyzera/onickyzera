@@ -2,7 +2,7 @@
 
 📊 **Em transição estratégica para Análise de Dados**  
 📊 Foco em dados, automação e tomada de decisão
-📍 São Gabriel, RS — Brasil  
+📍 Lajeado, RS — Brasil  
 
 Sou um profissional em transição para **Análise de Dados**, com **10 anos de experiência gerenciando meu próprio negócio**, atuando diretamente em **vendas, marketing, finanças, atendimento e processos**.
 

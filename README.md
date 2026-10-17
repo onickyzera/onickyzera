@@ -1,74 +1,66 @@
-# 👋 Olá, eu sou o Nick (Nícolas Vargas)
+# Olá, eu sou o Nick! 👋
 
-📊 **Em transição estratégica para Análise de Dados**  
-📊 Foco em dados, automação e tomada de decisão
-📍 Lajeado, RS — Brasil  
+### Designer Gráfico | Marketing Digital | Dados & Tecnologia
 
-Sou um profissional em transição para **Análise de Dados**, com **10 anos de experiência gerenciando meu próprio negócio**, atuando diretamente em **vendas, marketing, finanças, atendimento e processos**.
+Sou Nicolas Vargas, profissional criativo com experiência em design gráfico, comunicação digital e desenvolvimento de soluções visuais para marcas.
 
-Essa vivência me ensinou algo essencial para a área de dados:  
-👉 **dados só têm valor quando viram decisão**.
+Atualmente, atuo na **Ellox Digital**, desenvolvendo materiais publicitários e campanhas para empresas de diferentes segmentos, incluindo projetos para Citroën, CAOA, Mitsubishi e outras marcas.
 
-Hoje, meu foco é unir **raciocínio analítico, lógica e contexto de negócio** para gerar insights que realmente façam diferença.
+Além do design, venho ampliando meus conhecimentos em **Análise de Dados, Business Intelligence e Desenvolvimento**, conectando criatividade, tecnologia e visão de negócio.
 
----
+## Sobre mim
 
-## 🧠 Atualmente estudando
+- Experiência em design gráfico, branding e campanhas digitais.
+- Criação de conteúdos para redes sociais, anúncios, e-mail marketing e materiais institucionais.
+- Desenvolvimento de layouts para sites e landing pages.
+- Conhecimentos em Excel, Power BI, SQL e Python em desenvolvimento.
+- Estudante de Design Digital e User Experience na UNIASSELVI.
+- Localizado em Lajeado, Rio Grande do Sul.
 
-📌 **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
-📌 **Power BI** — dashboards, KPIs e análise visual  
-📌 **Python para dados** — lógica, análise e automação  
-📌 **SQL** — consultas, joins e análise exploratória  
-📌 **Automação de processos** com IA, Python e n8n  
+## Tecnologias e ferramentas
 
----
+**Design e Marketing**
 
-## 🛠️ Tecnologias & Ferramentas
+Adobe Photoshop | Illustrator | Premiere Pro | Figma | Canva | RD Station | WordPress
 
-**Análise de Dados**
-- Power BI (modelagem, DAX básico, dashboards)
-- Python (fundamentos, análise de dados)
-- SQL (SELECT, WHERE, JOIN, GROUP BY)
-- Excel / Google Sheets (análise e organização)
+**Dados e Business Intelligence**
 
-**Outros conhecimentos**
-- Git & GitHub  
-- Noções de Front-End (HTML, CSS, JavaScript)  
-- Automação de processos  
-- Marketing e visão estratégica de negócio  
+Excel | Power BI | SQL | Python
 
----
+**Desenvolvimento e automação**
 
-## 📈 O que você vai encontrar aqui
+HTML | CSS | JavaScript | Git | GitHub | n8n
 
-🔹 Projetos práticos de **Análise de Dados**  
-🔹 Dashboards focados em **indicadores reais de negócio**  
-🔹 Estudos aplicados (nada genérico de curso)  
-🔹 Evolução documentada da minha transição de carreira  
+## Projetos em destaque
 
----
+### Simulador de Investimentos em FIIs
 
-## 💡 Diferencial
+Ferramenta desenvolvida em Excel para simulação de investimentos, projeção de patrimônio e estimativa de dividendos, utilizando funções financeiras, PROCV e cenários personalizados.
 
-✔ 10 anos lidando com números, metas e tomada de decisão  
-✔ Capacidade de traduzir dados em ações claras  
-✔ Comunicação simples, direta e orientada a negócio  
-✔ Perfil analítico com visão prática  
+### Painel de Análise de Atendimentos
 
----
+Projeto de análise de dados em Excel, com indicadores de atendimento, tempo de resolução, satisfação e identificação de oportunidades de melhoria.
 
-## 🌎 Onde me encontrar
+### Projetos de Design e Marketing
 
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/nícolas-vargas-rs  
+Trabalhos envolvendo identidade visual, campanhas publicitárias, materiais digitais, comunicação institucional e produção de conteúdo para marcas.
 
-📧 **Email:**  
-codecomnick@gmail.com  
+### Desenvolvimento Web
 
-💼 **GitHub:**  
-https://github.com/onickyzera  
+Projetos de interfaces, páginas web e aplicações desenvolvidas durante estudos e experiências práticas.
 
----
+## Meu diferencial
 
-⭐ Se você é recrutador ou líder técnico:
-aqui você vai encontrar **aprendizado real, projetos práticos e visão de negócio**.
+Acredito que design, marketing e dados não precisam caminhar separadamente.
+
+Minha experiência com comunicação e negócios, combinada ao aprendizado de ferramentas analíticas, permite enxergar projetos tanto pela perspectiva criativa quanto pela estratégica.
+
+Meu objetivo é continuar desenvolvendo soluções que sejam visualmente eficientes, funcionais e orientadas a resultados.
+
+## Vamos nos conectar?
+
+**LinkedIn:** https://www.linkedin.com/in/nicolas-vargas-rs
+
+**GitHub:** https://github.com/onickyzera
+
+**E-mail:** codecomnick@gmail.com
